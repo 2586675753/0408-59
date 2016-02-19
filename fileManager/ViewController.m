@@ -36,7 +36,7 @@
 //    }
     
     long long size = [self fileSizeAtPath:docPathStr];
-   
+    long long sss = [self folderSizeAtPath:docPath];
     
    
     
